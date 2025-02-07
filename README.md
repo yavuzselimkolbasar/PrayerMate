@@ -38,10 +38,16 @@ By installing and using PrayerMate, you acknowledge and agree that you do so at 
 
 Below are some example images of modern, Apple-like prayer time app designs. Please note that these images are for illustrative purposes only and do not represent the actual PrayerMate app, which is still in development.
 
-![Prayer Time App Design Example 1](https://i.pinimg.com/736x/7f/50/f0/7f50f0fa5662010c24deeefe674a0fe5.jpg)
-*Example of a modern prayer time app interface.*
+<p align="center">
+  <img src="https://i.pinimg.com/736x/7f/50/f0/7f50f0fa5662010c24deeefe674a0fe5.jpg" alt="Prayer Time App Design Example 1" width="300" />
+  <br>
+  <em>Example of a modern prayer time app interface.</em>
+</p>
 
-![Prayer Time App Design Example 2](https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/0f019565-c27a-41a8-9a08-b5fff616bbfb/3295276365/prayer-time-azan-alarm-qibla-screenshot.png)
-*Another example showcasing a sleek and user-friendly design.*
+<p align="center">
+  <img src="https://images.sftcdn.net/images/t_app-cover_l,f_auto/p/0f019565-c27a-41a8-9a08-b5fff616bbfb/3295276365/prayer-time-azan-alarm-qibla-screenshot.png" alt="Prayer Time App Design Example 2" width="300" />
+  <br>
+  <em>Another example showcasing a sleek and user-friendly design.</em>
+</p>
 
 *These images are for demonstration purposes and do not reflect the final design of PrayerMate.*
